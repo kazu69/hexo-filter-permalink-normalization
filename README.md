@@ -1,6 +1,8 @@
 hexo-filter-permalink-normalization
 ================
 
+[![Build Status](https://drone.io/github.com/kazu69/hexo-filter-permalink-normalization/status.png)](https://drone.io/github.com/kazu69/hexo-filter-permalink-normalization/latest)
+
 This plugin unicode normalize your HEXO article permalink.
 
 ## Install
