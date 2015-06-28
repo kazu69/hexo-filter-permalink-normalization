@@ -3,6 +3,8 @@ hexo-filter-permalink-normalization
 
 [![Build Status](https://drone.io/github.com/kazu69/hexo-filter-permalink-normalization/status.png)](https://drone.io/github.com/kazu69/hexo-filter-permalink-normalization/latest)
 
+[![npm version](https://badge.fury.io/js/hexo-filter-permalink-normalization.svg)](http://badge.fury.io/js/hexo-filter-permalink-normalization)
+
 This plugin unicode normalize your HEXO article permalink.
 
 ## Install
