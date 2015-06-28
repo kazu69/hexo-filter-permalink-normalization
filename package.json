@@ -1,6 +1,6 @@
 {
   "name": "hexo-filter-permalink-normalization",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "hexo filter plugin. Permalink normalization.",
   "main": "index",
   "scripts": {
