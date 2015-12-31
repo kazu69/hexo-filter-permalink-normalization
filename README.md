@@ -33,4 +33,4 @@ npm test
 
 ## License
 
-MIT
+MIT © kazu69
