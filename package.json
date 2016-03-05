@@ -26,11 +26,11 @@
     "type": "MIT"
   },
   "devDependencies": {
-    "chai": "^3.4.1",
-    "gulp": "^3.9.0",
-    "gulp-babel": "^6.1.1",
-    "gulp-load-plugins": "^1.1.0",
-    "mocha": "^2.3.4"
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-load-plugins": "^1.2.0",
+    "mocha": "^2.4.5"
   },
   "dependencies": {
     "unorm": "^1.4.1"
